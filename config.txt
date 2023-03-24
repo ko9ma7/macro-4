@@ -1,8 +1,8 @@
 {
-  "From": "동탄",
-  "To": "대전",
-  "Date": "20230226",
-  "Departure_time":  "12",
+  "From": "대전",
+  "To": "동탄",
+  "Date": "20230325",
+  "Departure_time":  "10",
   "From_item": 1,
   "num_item": 1,
   "phone_number": "01023613055",
